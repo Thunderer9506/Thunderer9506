@@ -8,25 +8,33 @@
 ---
 
 ## 🔭 About me
-I build small-to-medium web apps, automation tools, and data utilities — mostly Python backends (Flask / FastAPI) with focused frontends when needed. I care about readable code, clear READMEs and deployable demos.  
-(Info pulled from my GitHub profile.) :contentReference[oaicite:0]{index=0}
-
+I build small-to-medium web apps, automation tools, and data utilities — mostly Python backends (Flask / FastAPI) with focused frontends when needed. I care about readable code, clear READMEs and deployable demos. 
 ---
 
 ## 🧰 Tech & tools (grid)
 <p align="center">
   <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" />&nbsp;&nbsp;
+  <img alt="Javascript" witdth="48 src="https://devicon-website.vercel.app/api/javascript/original.svg"></img>
+  <img alt="C++" witdth="48 src="https://devicon-website.vercel.app/api/cplusplus/original.svg"></img>
+  <img alt="HTML" witdth="48 src="https://devicon-website.vercel.app/api/html5/original.svg"></img>
+  <img alt="CSS" witdth="48 src="https://devicon-website.vercel.app/api/css3/original.svg"></img>
+  <img alt="MARKDOWN" witdth="48 src="https://devicon-website.vercel.app/api/markdown/original.svg?color=%23FFFFFF"></img>
   <img alt="Flask" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="48" />&nbsp;&nbsp;
-  <img alt="FastAPI" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="48" />&nbsp;&nbsp;
+  <img alt="Bootstrap" witdth="48 src="https://devicon-website.vercel.app/api/bootstrap/original-wordmark.svg"></img>
+  <img alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" />&nbsp;&nbsp;
+  <img alt="EXPRESS" witdth="48 src="https://devicon-website.vercel.app/api/express/original.svg"></img>
   <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" />&nbsp;&nbsp;
   <img alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" />&nbsp;&nbsp;
-  <img alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" />&nbsp;&nbsp;
-  <img alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" />&nbsp;&nbsp;
+  <img alt="NPM" witdth="48 src="https://devicon-website.vercel.app/api/npm/original-wordmark.svg"></img>
   <img alt="SQLAlchemy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" width="48" />&nbsp;&nbsp;
+  <img alt="SQLITE" witdth="48 src="https://devicon-website.vercel.app/api/sqlite/original.svg"></img>
+  <img alt="KAGGLE" witdth="48 src="https://devicon-website.vercel.app/api/kaggle/original.svg"></img>
   <img alt="NumPy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" />&nbsp;&nbsp;
   <img alt="pandas" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" />&nbsp;&nbsp;
+  <img alt="SELENIUM" witdth="48 src="https://devicon-website.vercel.app/api/selenium/original.svg"></img>
   <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" />&nbsp;&nbsp;
-  <img alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" />
+  <img alt="GITHUB" witdth="48 src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF"></img>
+  
 </p>
 
 ---
