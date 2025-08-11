@@ -4,9 +4,7 @@
 <!-- HERO — 2 options: use either A (Mario) or B (Terminal) — keep both for preview, pick one later -->
 <p align="center">
   <!-- Option A: Retro / Mario GIF (fun) -->
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="retro-mario" width="520" />
-  <!-- Option B: Hacker / terminal GIF (coder vibe) -->
-  <img src="https://media.giphy.com/media/l0MYGb1LuZ3n7dRnO/giphy.gif" alt="terminal-anim" width="520" />
+  <img src="https://64.media.tumblr.com/1acf3dc0425baf913f8742e03a48abda/226d5ec21f124fdc-21/s1280x1920/76ce770cca7dbb774adf9bfeabf68281419b0af4.gifv" alt="gundam" />
 </p>
 
 ---
