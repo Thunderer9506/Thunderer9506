@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Shaurya Srivastava</h1>
-<h3 align="center">Python & Full-Stack Developer | AI & Data Science Learner from India</h3>
+<h3 align="center">19 | Python & Full-Stack Developer | AI & Data Science Enthusiast</h3>
 
 <p align="center">
   <img alt="coding" width="320" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" />
@@ -11,34 +11,26 @@
 
 ---
 
-### About Me  
-- 🔹 19 years old, passionate about coding and constantly learning.  
-- 🔹 Skilled in **Python, Flask, React, Node.js, and automation**.  
-- 🔹 Building real-world projects focused on **web development**, **data science**, and **backend APIs**.  
-- 🔹 Transitioning fully into **Python backend development** from Node.js.  
+### 💻 About Me  
+- 🔹 19 years old, based in India.  
+- 🔹 Passionate about **Python**, **Full-Stack Development**, and **AI/Data Science**.  
+- 🔹 Currently focused on building **real-world projects**, sharpening competitive programming skills, and mastering backend development with **Flask**.  
+- 🔹 Transitioning from Node.js to Python for backend with a strong foundation in React on frontend.  
+- 🔹 Always eager to learn, collaborate, and contribute to open source.
 
 ---
 
-### Featured Projects  
-Check out my top repos:  
-- [Project 1 - Cool Flask App](https://github.com/Thunderer9506/your-flask-project)  
-- [Project 2 - React Dashboard](https://github.com/Thunderer9506/your-react-project)  
-- [Project 3 - Automation Scripts](https://github.com/Thunderer9506/your-automation-scripts)  
+### 🚀 Featured Project: [TravelBuddy](https://github.com/Thunderer9506/travelBuddy-frontend)  
+A **React-based travel companion app** that helps users:  
+- Plan trips efficiently  
+- Discover local attractions  
+- Share itineraries easily with friends  
 
-(Replace these with your actual best repos)
-
----
-
-### Connect with Me  
-<p align="left">
-  <a href="https://github.com/Thunderer9506" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" width="40" height="40"/></a>
-  <a href="https://www.linkedin.com/in/shaurya-srivastava001" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="40" height="40"/></a>
-  <a href="https://www.geeksforgeeks.org/user/codedotpy/?ref=header_profile" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" width="40" height="40"/></a>
-</p>
+Built with a clean UI, responsive design, and connected to a Flask backend API. This project showcases my skills in full-stack development and UI/UX design.
 
 ---
 
-### Languages & Tools  
+### 🛠️ Tech Stack & Tools  
 <p align="left">
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
@@ -53,13 +45,24 @@ Check out my top repos:
 
 ---
 
-### Fun Fact  
-> “When I debug code, even bugs ask for mercy.” ⚡
+### 📈 GitHub Stats  
+![Shaurya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thunderer9506&show_icons=true&theme=radical&count_private=true)
 
 ---
 
-⭐️ Feel free to explore my repos and connect with me!
+### 🤝 Let’s Connect  
+<p align="left">
+  <a href="https://github.com/Thunderer9506" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/shaurya-srivastava001" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="40" height="40"/></a>
+  <a href="https://www.geeksforgeeks.org/user/codedotpy/?ref=header_profile" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" width="40" height="40"/></a>
+  <a href="mailto:srivastavashaurya225@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" width="40" height="40"/></a>
+</p>
 
 ---
 
-If you want, I can also help you generate **GitHub stats cards** or **visitor counters** to make the profile even more dynamic. Would you like that?
+### ⚡ Fun Fact  
+> "When I debug code, even bugs ask for mercy."
+
+---
+
+⭐️ Thanks for stopping by! Feel free to check out my projects and reach out anytime.
