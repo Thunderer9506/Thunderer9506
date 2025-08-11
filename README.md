@@ -42,22 +42,20 @@ I build small-to-medium web apps, automation tools, and data utilities — mostl
 ## ⭐ Featured projects (starred / selected)
 These are pulled directly from my GitHub and the repos you asked to feature — click to view the code and demos.
 
-- **ISS_Viewer** — small Python program that shows ISS location / telemetry (simple utility). :contentReference[oaicite:1]{index=1}  
+- **ISS_Viewer** — small Python program that shows ISS location / telemetry (simple utility).
   `github.com/Thunderer9506/ISS_Viewer`
 
-- **snake-game** — classic Snake implementation (Python). Good example of game logic and small-project structure. :contentReference[oaicite:2]{index=2}  
+- **snake-game** — classic Snake implementation (Python). Good example of game logic and small-project structure. 
   `github.com/Thunderer9506/snake-game`
 
-- **Data-Science** — collection / playground of data science notebooks and EDA projects (useful to show ML/data skills). :contentReference[oaicite:3]{index=3}  
+- **Data-Science** — collection / playground of data science notebooks and EDA projects (useful to show ML/data skills).
   `github.com/Thunderer9506/Data-Science`
 
-- **Attendance-System** — desktop app using face recognition + Tkinter that automates attendance marking — shows applied CV + system integration. :contentReference[oaicite:4]{index=4}  
+- **Attendance-System** — desktop app using face recognition + Tkinter that automates attendance marking — shows applied CV + system integration.
   `github.com/Thunderer9506/Attendance-System`
 
-- **BlogDojo** — a deployable Flask blog with rich-text editor, image upload, auth, and light/dark mode — **live** on Render (great recruiter demo). :contentReference[oaicite:5]{index=5}  
-  Live demo: https://blogdojo.onrender.com. :contentReference[oaicite:6]{index=6}
-
-> Tip: I recommend pinning BlogDojo + 2 other repos (one tool, one data/project) so recruiters see: **deployable webapp → tooling/automation → data/ML** quickly. (I can auto-pin if you want instructions.)
+- **BlogDojo** — a deployable Flask blog with rich-text editor, image upload, auth, and light/dark mode — **live** on Render (great recruiter demo).
+  Live demo: https://blogdojo.onrender.com.
 
 ---
 
@@ -67,7 +65,7 @@ These are pulled directly from my GitHub and the repos you asked to feature — 
   <img alt="Shaurya's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Thunderer9506&show_icons=true&theme=vision-friendly-dark" />
   <!-- Top languages -->
   <br/>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thunderer9506&layout=compact&theme=vision-friendly-dark" />
+  <img style="float: "right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thunderer9506&layout=compact&theme=vision-friendly-dark" />
 </p>
 
 ---
