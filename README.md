@@ -60,4 +60,45 @@ These are pulled directly from my GitHub and the repos you asked to feature — 
 ## 📈 GitHub stats
 <p align="center">
   <!-- GitHub readme stats card -->
-  <img alt="Shaurya's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Thunderer9506&show_ico_
+  <img alt="Shaurya's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Thunderer9506&show_icons=true&theme=vision-friendly-dark" />
+  <!-- Top languages -->
+  <br/>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thunderer9506&layout=compact&theme=vision-friendly-dark" />
+</p>
+
+---
+
+## 🎯 Career goals
+- Short term: land a backend / ML-support internship where I can build APIs and ship data-driven features.  
+- Mid term: become an engineer who designs reliable backend services, learns production ML deployment, and mentors juniors.  
+- Open to: internships, freelance mini-projects, and collaboration on small ML / API projects.
+
+---
+
+## ⚡ How I work
+- Small, focused PRs and readable commits.  
+- Prefer clear README + demo GIF for every repo.  
+- I deploy at least one project (BlogDojo) to show end-to-end ability. :contentReference[oaicite:7]{index=7}
+
+---
+
+## 📫 Connect
+- LinkedIn — https://www.linkedin.com/in/shaurya-srivastava001  
+- X — https://x.com/ShauryaSri88742  
+- LeetCode — https://leetcode.com/u/shaurya_the_coder/  
+- GeeksforGeeks — https://www.geeksforgeeks.org/user/codedotpy/
+
+---
+
+### Want me to:
+- Replace the two hero GIFs with **one** chosen GIF (just tell me which: A or B)?  
+- Auto-insert direct repo links (I used repo names above — I can swap them for markdown links pointing to the exact repo pages)?  
+- Add demo GIF placeholders or embed actual GIFs/screenshots for the 3 pinned repos?  
+
+If you want, I’ll now:
+1. **Produce the final README with exact markdown links** to each repo and the live-demo URL embedded (I already have the repo URLs).  
+2. **Create 2 small demo GIF placeholders** and instructions to record them (or I can give a step-by-step to make them).  
+3. Add or change the GitHub stats theme to a different style (dark / light / blue) — name a theme.
+
+Tell me which next step (1, 2, 3) you want me to run and whether to **use Hero A (Mario)** or **Hero B (Terminal)** in the final file — or I can choose which looks better and paste both versions separately.
+::contentReference[oaicite:8]{index=8}
