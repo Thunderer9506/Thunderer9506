@@ -71,7 +71,7 @@ I’m Shaurya — a developer who likes turning small experiments into tools peo
 <!-- Cool features -->
 <p align="center">
   <!-- GitHub trophy card -->
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Thunderer9506)](https://github.com/ryo-ma/github-profile-trophy)
+  <img src = "https://github-profile-trophy.vercel.app/?username=Thunderer9506"/>
 </p>
 
 ---
