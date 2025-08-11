@@ -1,5 +1,5 @@
-<p align="right">
-  <img src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif" alt="MasterHead" width="180"/>
+<p>
+  <img src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif" alt="MasterHead"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Shaurya Srivastava</h1>
