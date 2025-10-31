@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/1acf3dc0425baf913f8742e03a48abda/226d5ec21f124fdc-21/s1280x1920/76ce770cca7dbb774adf9bfeabf68281419b0af4.gif" alt="Gundam" />
+  <img src="./ddd8ff292a30b9ad856856aa920d1081.gif" alt="Gundam" />
 </p>
 
 ---
