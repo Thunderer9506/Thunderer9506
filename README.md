@@ -11,28 +11,12 @@
 
 ---
 
-<div style="display:flex; justify-content:center; gap:1.5rem; flex-wrap:wrap; margin: 2rem 0;">
-  <a href="#about-me">
-    <button style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border: none; padding: 1rem 2rem; font-size: 1.1rem; font-weight: bold; border-radius: 8px; cursor: pointer; transition: transform 0.3s, box-shadow 0.3s; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); min-width: 150px; height: 50px; display: flex; align-items: center; justify-content: center;">
-      📝 About Me
-    </button>
-  </a>
-  <a href="#skills">
-    <button style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; border: none; padding: 1rem 2rem; font-size: 1.1rem; font-weight: bold; border-radius: 8px; cursor: pointer; transition: transform 0.3s, box-shadow 0.3s; box-shadow: 0 4px 15px rgba(245, 87, 108, 0.4); min-width: 150px; height: 50px; display: flex; align-items: center; justify-content: center;">
-      💻 Skills
-    </button>
-  </a>
-  <a href="#projects">
-    <button style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); color: white; border: none; padding: 1rem 2rem; font-size: 1.1rem; font-weight: bold; border-radius: 8px; cursor: pointer; transition: transform 0.3s, box-shadow 0.3s; box-shadow: 0 4px 15px rgba(79, 172, 254, 0.4); min-width: 150px; height: 50px; display: flex; align-items: center; justify-content: center;">
-      🎯 Projects
-    </button>
-  </a>
-  <a href="#contacts">
-    <button style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); color: white; border: none; padding: 1rem 2rem; font-size: 1.1rem; font-weight: bold; border-radius: 8px; cursor: pointer; transition: transform 0.3s, box-shadow 0.3s; box-shadow: 0 4px 15px rgba(67, 233, 123, 0.4); min-width: 150px; height: 50px; display: flex; align-items: center; justify-content: center;">
-      📞 Contacts
-    </button>
-  </a>
-</div>
+<p align="center">
+  <a href="#about-me"><img src="https://img.shields.io/badge/📝_About_Me-667eea?style=for-the-badge&logoColor=white" alt="About Me" /></a>
+  <a href="#skills"><img src="https://img.shields.io/badge/💻_Skills-f5576c?style=for-the-badge&logoColor=white" alt="Skills" /></a>
+  <a href="#projects"><img src="https://img.shields.io/badge/🎯_Projects-4facfe?style=for-the-badge&logoColor=white" alt="Projects" /></a>
+  <a href="#contacts"><img src="https://img.shields.io/badge/📞_Contacts-43e97b?style=for-the-badge&logoColor=white" alt="Contacts" /></a>
+</p>
 
 ---
 
