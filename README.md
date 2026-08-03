@@ -9,24 +9,6 @@
   <img src="./17.gif" alt="gif" />
 </p>
 
-
-
-
-<!-- 1. Create a target HTML element -->
-<ul id="loop-container"></ul>
-
-<!-- 2. Write the execution loop -->
-<script>
-  const container = document.getElementById('loop-container');
-  const items = ['First Item', 'Second Item', 'Third Item'];
-  
-  items.forEach(item => {
-    const li = document.createElement('li');
-    li.textContent = item;
-    container.appendChild(li);
-  });
-</script>
-
 ## <a id="about-me"></a>📝 About
 
 I'm a backend engineer who cares more about how systems hold up under real load than how they look in a demo. Building production-grade APIs, caching layers, and lately, autonomous AI agents that take real action instead of just answering questions. My current build, DevMind, is a multi-agent LangGraph platform that reviews GitHub repos for security vulnerabilities and opens Pull Requests after human approval, with PostgreSQL-backed state so an agent picks up exactly where it left off after a restart.
